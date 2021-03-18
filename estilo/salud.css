@@ -1,0 +1,35 @@
+body{
+    text-align: justify;
+    background-color:rgb(227, 234, 248);
+    margin: 15px; ;   
+}
+
+
+.titulo1{
+    color: rgb(7, 143, 148);
+    font-size: 50px;
+    text-align: center;
+    font-family: "Century Gothic";
+}
+
+.titulo2{
+    color:rgb(109, 109, 221);
+    font-size: 30px;
+    text-align: center;
+    font-family:"Century Gothic";
+}
+
+p{
+    color: black;
+    font-size: 18px;
+    text-align:justify;
+    font-family:"Century Gothic";
+}
+
+footer{
+    color:rgb(148, 6, 77);
+    font-size: 18px;
+    text-align: center;
+    font-family: "Century Gothic";
+    background-color:rgba(235, 238, 243, 0.993);
+}

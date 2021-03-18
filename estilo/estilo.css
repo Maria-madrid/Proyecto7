@@ -1,0 +1,25 @@
+.FondoBarra{
+    background-color:rgb(191, 211, 250)
+}
+
+body{
+    background-color:rgb(249, 250, 251);
+    margin: 10px;
+    
+    
+}
+.titulos{
+    color: rgb(7, 143, 148);
+    font-size: 20px;
+    text-align: center;
+    font-family: "Century Gothic";
+}
+
+footer{
+    color:rgb(167, 7, 87);
+    font-size: 18px;
+    text-align: center;
+    font-family: "Century Gothic";
+    background-color:rgba(235, 238, 243, 0.993);
+
+}
